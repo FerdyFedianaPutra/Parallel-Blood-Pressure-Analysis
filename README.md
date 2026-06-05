@@ -199,19 +199,19 @@ Output
 
 | Metric | Value |
 |----------|----------|
-| Average Pressure | 114.98 mmHg |
-| Peak Count | 90,209 |
+| Average Pressure | 115.01 mmHg |
+| Peak Count | 90263 |
 | BPM | 75 |
-| Execution Time | 0.7333 s |
+| Execution Time | 1.2333 s |
 
 ### Parallel Result
 
 | Metric | Value |
 |----------|----------|
-| Average Pressure | 114.99 mmHg |
-| Peak Count | 90,548 |
+| Average Pressure | 115.01 mmHg |
+| Peak Count | 90003 |
 | BPM | 75 |
-| Execution Time | 0.4375 s |
+| Execution Time | 0.8497 s |
 
 ---
 
