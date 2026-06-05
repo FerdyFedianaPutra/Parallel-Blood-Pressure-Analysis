@@ -140,10 +140,6 @@ Parallel-Blood-Pressure-Analysis/
 ├── serial_bp_analysis.py
 ├── README.md
 │
-├── images/
-│   ├── serial_result.png
-│   ├── parallel_result.png
-│
 
 ```
 
